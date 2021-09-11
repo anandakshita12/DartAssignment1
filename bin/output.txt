@@ -1,0 +1,76 @@
+the addition of 10 and 20 is 30
+the addition of 20 and 40 is 60
+the subtraction of 10 and 20 is -10
+the subtraction of 20 and 40 is -20
+the multiplication of 10 and 20 is 200
+the multiplication of 20 and 40 is 800
+the division of 10 and 20 is 0.5
+the division of 20 and 40 is 0.5
+the division of 10 and 20 is 0
+the division of 20 and 40 is 0
+the modulus of 10 and 20 is 10
+the modulus of 20 and 40 is 20
+the unary minus of 20 is -20
+the unary minus of 40 is -40
+pre increment of 11 is 11
+pre increment of 21 is 21
+pre decrement of 10 is 10
+pre decrement of 20 is 20
+post increment of 11 is 10
+post increment of 21 is 20
+post decrement of 10 is 11
+post decrement of 20 is 21
+20 is greater than 30 is false
+30 is greater than 20 is true
+20 is lesser than 30 is true
+30 is lesser than 20 is false
+20 is greater than equal to 30 is false
+30 is greater than equal to 20 is true
+20 is lesser than equal to 30 is true
+30 is lesser than equal to 20 is false
+25 is equal to 35 is false
+35 is equal to 25 is false
+20 is not equal to 30 is true
+30 is not equal to 20 is true
+akdu is String: true
+7 is double: false
+akdu is not String: false
+7 is not double: true
+4
+20
+23
+30
+19
+10
+-21
+-51
+2560
+45035996273704960
+0
+0
+140
+100
+27
+13
+20 assign increment by 2 is 22
+7 assign increment by 2 is 9
+22 assign decrement by 2 is 20
+9 assign decrement by 2 is 7
+20 assign multiply by 2 is 40
+7 assign multiply by 2 is 14
+40 assign division by 2 is 20
+14 assign division by 2 is 7
+true
+false
+true
+true
+false
+true
+Statement is Wrong
+Statement is Wrong
+10
+n is Null
+one
+two
+one
+two
